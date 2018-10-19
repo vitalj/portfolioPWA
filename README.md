@@ -20,5 +20,4 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-https://github.com/vitalj/portfolioPWA/blob/master/sk3fYD.png?raw=true
-![alt text](https://raw.githubusercontent.com/vitalj/portfolioPWA/blob/master/sk3fYD.png)
+![](https://github.com/vitalj/portfolioPWA/blob/master/sk3fYD.png?raw=true)
