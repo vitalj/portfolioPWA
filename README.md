@@ -2,6 +2,11 @@ gi# vue-portfolio-template
 
 > Basic portfolio template
 
+![](https://github.com/vitalj/portfolioPWA/blob/master/Capture%20d’écran%202018-10-19%20à%2011.25.15.png?raw=true)
+![](https://github.com/vitalj/portfolioPWA/blob/master/Capture%20d’écran%202018-10-19%20à%2011.25.23.png?raw=true)
+![](https://github.com/vitalj/portfolioPWA/blob/master/sk3fYD.png?raw=true)
+
+
 ## Build Setup
 
 ``` bash
@@ -19,5 +24,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-![](https://github.com/vitalj/portfolioPWA/blob/master/sk3fYD.png?raw=true)
